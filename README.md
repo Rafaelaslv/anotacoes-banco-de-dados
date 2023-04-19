@@ -1,2 +1,13 @@
 # anotacoes-banco-de-dados
 Minhas anotações dos conhecimentos obtidos através do curso Administrando Banco de Dados disponível na plataforma Fundação Bradesco.
+
+### Tarefas de um processo de administração de banco de dados:
+
+* Instalação do SGBD
+* Efetivar a validação do modelo lógico
+* Sistema de backup
+* Determinar alocação de espaço
+* Cadastramento de usuários autorizados
+* Privilégios de acesso
+* Entender e determinar a arquitetura do banco de dados
+* Observar o bom desempenho, segurança e estrutura do banco de dados
