@@ -1,6 +1,11 @@
 # anotacoes-banco-de-dados
 Minhas anotações dos conhecimentos obtidos através do curso Administrando Banco de Dados disponível na plataforma Fundação Bradesco.
 
+Conceito de Banco de Dados
+Importancia dos Bancos de Dados
+Conceito de SGBD
+Vantagens dos SGBD`s
+
 ### Tarefas de um processo de administração de banco de dados:
 
 * Instalação do SGBD
@@ -23,6 +28,11 @@ dados e informações para utilização contínua.
 Banco de Dados Relacional
 Banco de Dados Orientado a Objetos
 Banco de Dados Distribuido
+Data Warehouses
+Banco de Dados Nosql
+Banco de Dados Graficos
+
+
 
 
 
