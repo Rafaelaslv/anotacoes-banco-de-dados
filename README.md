@@ -25,12 +25,16 @@ dados e informações para utilização contínua.
 
 ### Os Tipos de Banco de Dados
 
-Banco de Dados Relacional
-Banco de Dados Orientado a Objetos
-Banco de Dados Distribuido
-Data Warehouses
-Banco de Dados Nosql
-Banco de Dados Graficos
+relacionais, os orientados a objetos, os distribuídos, os Data Warehouses, os NoSQL, os gráficos, os de documentos e os Chave-Valor.
+
+
+
+Banco de dados de codigo aberto
+Banco de dados em nuvem
+Banco de dados multimodelo
+Banco de dados de documentos/JSON
+Banco de dados autonomos
+
 
 
 
