@@ -20,5 +20,10 @@ dados e informações para utilização contínua.
 
 ### Os Tipos de Banco de Dados
 
+Banco de Dados Relacional
+Banco de Dados Orientado a Objetos
+Banco de Dados Distribuido
+
+
 
 
