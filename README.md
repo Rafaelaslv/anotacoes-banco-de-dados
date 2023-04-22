@@ -4,12 +4,16 @@
 
 ### Este repositório conterá minhas anotações dos conhecimentos obtidos através do curso Administrando Banco de Dados disponível na plataforma Fundação Bradesco.
 
-Conceito de Banco de Dados
-Importancia dos Bancos de Dados
-Conceito de SGBD
-Vantagens dos SGBD`s
+---
 
-### Tarefas de um processo de administração de banco de dados:
+* Conceito de Banco de Dados
+* Importância dos Bancos de Dados
+* Conceito de SGBD
+* Vantagens do SGBD
+
+---
+
+### Tarefas de um processo de administração de Banco de Dados:
 
 * Instalação do SGBD
 * Efetivar a validação do modelo lógico
@@ -20,15 +24,26 @@ Vantagens dos SGBD`s
 * Entender e determinar a arquitetura do banco de dados
 * Observar o bom desempenho, segurança e estrutura do banco de dados
 
-As peculiaridades de cada modelo de negócio determinam o sistema de gestão de
+---
+
+Esse sistema de banco de dados consiste na organização e armazenamento de
+dados e informações para utilização contínua.
+
+E as peculiaridades de cada modelo de negócio determinam o sistema de gestão de
 banco de dados ideal para atender as suas demandas.
 
-E esse sistema de banco de dados consiste na organização e armazenamento de
-dados e informações para utilização contínua.
+---
 
 ### Os Tipos de Banco de Dados
 
-relacionais, os orientados a objetos, os distribuídos, os Data Warehouses, os NoSQL, os gráficos, os de documentos e os Chave-Valor.
+* Banco de dados relacional
+* Banco de dados orientados a objetos
+* Banco de dados distribuídos
+* Banco de dados Data Warehouses
+* Banco de dados NoSQL
+* Banco de dados gráficos
+* Banco de dados documento
+* Banco de dados Chave-Valor
 
 
 
