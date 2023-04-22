@@ -1,5 +1,8 @@
-# anotacoes-banco-de-dados
-Minhas anotações dos conhecimentos obtidos através do curso Administrando Banco de Dados disponível na plataforma Fundação Bradesco.
+## 👽📣 Hey terráqueos!!
+
+
+
+### Este repositório conterá minhas anotações dos conhecimentos obtidos através do curso Administrando Banco de Dados disponível na plataforma Fundação Bradesco.
 
 Conceito de Banco de Dados
 Importancia dos Bancos de Dados
