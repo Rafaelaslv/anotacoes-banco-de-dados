@@ -6,12 +6,20 @@
 
 ---
 
+Módulo 1
+Administrador
+de banco de dados
+
 * Conceito de Banco de Dados
 * Importância dos Bancos de Dados
 * Conceito de SGBD
 * Vantagens do SGBD
+* Responsabilidades de um DBA
+* Tipos de Banco de Dados
 
 ---
+
+
 
 ### Tarefas de um processo de administração de Banco de Dados:
 
@@ -45,7 +53,7 @@ banco de dados ideal para atender as suas demandas.
 * Banco de dados documento
 * Banco de dados Chave-Valor
 
-
+---
 
 Banco de dados de codigo aberto
 Banco de dados em nuvem
