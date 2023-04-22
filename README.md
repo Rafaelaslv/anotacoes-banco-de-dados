@@ -6,9 +6,7 @@
 
 ---
 
-Módulo 1
-Administrador
-de banco de dados
+#### Módulo 1: Administrador de banco de dados
 
 * Conceito de Banco de Dados
 * Importância dos Bancos de Dados
@@ -55,11 +53,11 @@ banco de dados ideal para atender as suas demandas.
 
 ---
 
-Banco de dados de codigo aberto
-Banco de dados em nuvem
-Banco de dados multimodelo
-Banco de dados de documentos/JSON
-Banco de dados autonomos
+* Banco de dados de codigo aberto
+* Banco de dados em nuvem
+* Banco de dados multimodelo
+* Banco de dados de documentos/JSON
+* Banco de dados autonomos
 
 
 
